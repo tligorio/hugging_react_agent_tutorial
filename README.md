@@ -12,7 +12,7 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 #### Option 1: Using uv (Recommended)
 ```bash
 # Clone the repository
-git clone [https://github.com/tligorio/hugging_react_agent_tutorial.git](https://github.com/tligorio/hugging_react_agent_tutorial.git)
+git clone https://github.com/tligorio/hugging_react_agent_tutorial.git
 cd hugging_react_agent_tutorial
 
 # Create virtual environment and install dependencies
