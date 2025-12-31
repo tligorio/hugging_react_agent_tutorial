@@ -1,0 +1,15 @@
+
+[project]
+name = "hugging_react_agent_tutorial"
+version = "0.1.0"
+description = "Build a ReAct agent from scratch using Hugging Face Transformers"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "transformers>=4.50.0",
+    "sentencepiece>=0.2.0",
+    "protobuf>=4.0.0",
+    "jupyter>=1.0.0",
+]
+
