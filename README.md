@@ -1,4 +1,5 @@
 #  ReAct Agent with Hugging Face Transformers - No Frameworks, No paid APIs
+### Tiziana Ligorio for *AI Agents (CSCI 395.32)* taught at Hunter College of The City University of New York
 Build an agent that reasons step-by-step and uses tools to solve problems, from scratch (framework-free). Uses open-source models.
 
 ## Running Locally
