@@ -1,6 +1,5 @@
-
 [project]
-name = "hugging_react_agent_tutorial"
+name = "hugging-react-agent-tutorial"
 version = "0.1.0"
 description = "Build a ReAct agent from scratch using Hugging Face Transformers"
 readme = "README.md"
@@ -10,6 +9,11 @@ dependencies = [
     "transformers>=4.50.0",
     "sentencepiece>=0.2.0",
     "protobuf>=4.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.0",
     "jupyter>=1.0.0",
 ]
 
